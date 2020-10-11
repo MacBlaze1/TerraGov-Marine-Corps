@@ -85,7 +85,7 @@
 	icon_state = "plasma_cutter_off"
 	item_state = "plasmacutter"
 	w_class = WEIGHT_CLASS_BULKY
-	flags_equip_slot = ITEM_SLOT_BELT|ITEM_SLOT_BACK
+	flags_equip_slot = ITEM_SLOT_BELT|ITEM_SLOT_BACK|ITEM_SLOT_OCLOTHING
 	force = 40.0
 	damtype = "fire"
 	digspeed = 20 //Can slice though normal walls, all girders, or be used in reinforced wall deconstruction
